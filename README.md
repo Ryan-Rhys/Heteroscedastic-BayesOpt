@@ -11,10 +11,10 @@ Heteroscedastic Bayesian Optimisation in BoTorch
 
 We recommend using a virtual environment e.g.
 
-``
+```
 conda create -n env het_bayesopt python==3.7
 
 conda activate het_bayesopt
 
-conda install botorch -c pytorch -c gpytorch
-``
+conda install botorch -c pytorch -c gpytorch``
+```
