@@ -17,4 +17,8 @@ conda create -n env het_bayesopt python==3.7
 conda activate het_bayesopt
 
 conda install botorch -c pytorch -c gpytorch
+
+pip install ax-platform
+
+conda install matplotlib
 ```
