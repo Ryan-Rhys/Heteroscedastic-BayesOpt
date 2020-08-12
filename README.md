@@ -7,7 +7,7 @@ Heteroscedastic Bayesian Optimisation in BoTorch
 - Python >= 3.7
 - PyTorch >= 1.5
 - gpytorch >= 1.1.1
-- scipy 
+- scipy
 
 We recommend using a virtual environment e.g.
 
@@ -22,3 +22,5 @@ pip install ax-platform
 
 conda install matplotlib
 ```
+
+
